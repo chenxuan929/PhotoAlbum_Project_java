@@ -1,5 +1,5 @@
 # PhotoAlbum_Project_java
-## final project for CS5004 in Spring 2023
+
 
 This is a simple album editing model that allows users to create and edit shapes on one page of an album. The application supports 2D graphics, including ovals and rectangles.
 
